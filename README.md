@@ -52,10 +52,13 @@ Tokyo web3 Hackathon の応募作 かつ 実在する新郎新婦の入籍祝い
 ### テスト手順を含むリポジトリへのリンク
 - [Test and audit](https://github.com/mayumi26/WeddingNFT/tree/main/hackathon/test/test.md)
 
+---
+### 審査やテストのためにプロジェクトにアクセスする方法など
+- [愛のエターナルリングNFT専用ページ](https://arweave.net/Q6rbh4zpvNoTpvzoCuuSsN7OfzncLlzn0RsVnp3PEzc)
+(Metamaskが入っているブラウザでアクセスください)
 
-
-
-
-
-
-
+---
+### ブロックチェーンを使う理由
+- 多くのITシステムは、時間と共に消えてしまいます。
+- 人々は、生きる間、そして生きた後も、そこにあった愛を記録し続ける仕組みを必要としています。
+- web2には、永遠はなかった。web3で、永遠の愛を記録しませんか？
