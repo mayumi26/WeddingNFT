@@ -45,7 +45,7 @@ Tokyo web3 Hackathon の応募作 かつ 実在する新郎新婦の入籍祝い
 ---
 ### application codeやその他のfile
 - [Smartcontract NFT logic in solidity & full on chain svg data](https://github.com/mayumi26/WeddingNFT/tree/main/solidity)
-- [愛のエターナルリングNFT専用ページ on Arweave](https://arweave.net/Q6rbh4zpvNoTpvzoCuuSsN7OfzncLlzn0RsVnp3PEzc)
+- [愛のエターナルリングNFT専用ページ on Arweave](https://arweave.net/OvnGnWrgmpthelJBgjG0k8qpKdmaPgcPivnn4XlRHgA)
 - [専用ページソースコード](https://github.com/mayumi26/WeddingNFT/tree/main/weddingsite)
 
 ---
@@ -54,7 +54,7 @@ Tokyo web3 Hackathon の応募作 かつ 実在する新郎新婦の入籍祝い
 
 ---
 ### 審査やテストのためにプロジェクトにアクセスする方法など
-- [愛のエターナルリングNFT専用ページ](https://arweave.net/Q6rbh4zpvNoTpvzoCuuSsN7OfzncLlzn0RsVnp3PEzc)
+- [愛のエターナルリングNFT専用ページ](https://arweave.net/OvnGnWrgmpthelJBgjG0k8qpKdmaPgcPivnn4XlRHgA)
 (Metamaskが入っているブラウザでアクセスください)
 
 ---
