@@ -26,7 +26,7 @@ Tokyo web3 Hackathon の応募作 かつ 実在する新郎新婦の入籍祝い
 - Hosting (viewer site)  - Arweave (a.k.a permaweb)  
 →『永遠の愛』を実現することを重視した技術選定となっています。
 
-![システム構成図](https://arweave.net/KqmwV_NDhiaKbfjLK6HTSVTK0O9-fZjeuq-GNUbwaN4)
+![システム構成図](https://arweave.net/ZmH3qKjv7rOCICjgAyINyJRJJUoST91fE9cb4aWbebE)
 
 ---
 
