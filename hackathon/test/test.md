@@ -19,6 +19,6 @@
 - [x] NFT metadata and image are stored in Ethereum Mainnet storage.
 - [x] Site HTML , image, CSS and JS are stored in Arweave permaweb storage.
 - [x] External API service is not used. 
-- [ ] JS Library on CDN is not used.
+- [x] JS Library on CDN is not used.
 
 
